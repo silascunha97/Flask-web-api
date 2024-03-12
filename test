@@ -1,0 +1,11 @@
+[33mcommit 72109b404d5e2b9cca1ec10b44233f3cee8b0c57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Silas Augusto da Cunha <0997s.a.cunha@gmail.com>
+Date:   Mon Mar 11 20:47:02 2024 -0300
+
+    aplicação flask minimal inicializada
+
+[33mcommit 29f4c968a4496d7dc23f01593788a0d68aa86a83[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: silascunha97 <119726629+silascunha97@users.noreply.github.com>
+Date:   Sat Mar 9 03:54:11 2024 -0300
+
+    Initial commit
